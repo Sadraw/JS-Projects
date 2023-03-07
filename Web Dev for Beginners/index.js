@@ -9,3 +9,12 @@ for (let i = 1; i <= number; i++) {
 }
 
 // A Fibonacci Sequence 
+
+if (n1 < n2 ) {
+    console.log("First number is bigger than the latter.");
+} else {
+    console.log("The second number is bigger than the first one");
+        
+}
+
+// is n1 < n2 ? 
