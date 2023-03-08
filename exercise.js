@@ -17,3 +17,5 @@ randomGenerator();
 
 
 // Git is pretty fun to use ! 
+
+// ubuntu 
