@@ -19,3 +19,8 @@ let keywordTwo = "Block scoped - Can be changed in scope - Only available after 
 const keywordThree = "Block scoped - Cannot be changed - Only available after declaration ";
 
 // UBUNTU 2 2
+// now working on ubuntu for a change.
+
+console.log(keywordOne);
+console.log(keywordTwo);
+console.log(keywordThree);
