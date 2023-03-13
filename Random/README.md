@@ -1,2 +1,1 @@
-# All the random and early projects will be saved here 
- 
+# All the Random and Early Projects Will be Saved Here 
