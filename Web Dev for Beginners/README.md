@@ -156,3 +156,7 @@ let myFalseBool = false
 A variable can be considered 'truthy' if it evaluates to a boolean true. 
 #### Interestingly, in JS, all values are truthy unless defined as falsy!
 
+
+
+## Learning about JS gotchas 
+
